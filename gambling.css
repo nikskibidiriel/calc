@@ -1,0 +1,29 @@
+*{padding:0;}
+.tgreen{
+    color: #79dfc1;
+}
+
+.tyellow{
+    color: #ffe69c;
+}
+
+.tgray{
+    color: #abb2bf;
+}
+
+.tblue{
+    color: #6edff6;
+}
+
+.tporpol{
+    color: #c29ffa;
+}
+
+.torange{
+    color: #feb272
+}
+
+:hover.btn{
+    background-color: white;
+    color: black;
+}
